@@ -3,11 +3,10 @@
 
 ```rs
 /*
-    We empower.
-    We strive for perfection.
-    We have a mission.
-    We are creating the next generation of Discord tools.
-    
+    WE empower.
+    WE strive for perfection.
+    WE have a mission.
+    WE are creating the next generation of Discord tools.
 */
 
 let mut stdout = stdout();
